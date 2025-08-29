@@ -20,7 +20,7 @@ The primary objective of this dissertation is to investigate how data imbalance 
   - `With Imbalanced Data/` : Models trained on the original imbalanced dataset  
 
 
-```markdown
+
 ## Installation
 All dependencies are listed in `requirements.txt`. Install them using:
 ```bash
